@@ -1,0 +1,125 @@
+{
+	"SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/master/docs/settings.md",
+	"SettingsVersion": 1.2,
+	"SimMode": "Multirotor",
+	"ClockSpeed": 1,
+	"ViewMode": "SpringArmChase",
+
+	"Vehicles": {
+		"Drone1": {
+		  "VehicleType": "SimpleFlight",
+		  "X": 0, "Y": 0, "Z": -2,
+		  "Pitch": 0, "Roll": 0, "Yaw": 90,
+		  "Cameras": {
+		  "5": {
+			"CaptureSettings": [
+           		 {
+              			"ImageType": 1,
+             			 "Width": 128,
+              			"Height": 128,
+             			 "FOV_Degrees": 90
+            		}
+         		 ],
+			"X": 0, "Y": 0, "Z": 0,
+      			"Pitch": 0, "Roll": 0, "Yaw": 0
+        	  },
+		  "6": {
+			"CaptureSettings": [
+           		 {
+              			"ImageType": 1,
+             			 "Width": 128,
+              			"Height": 128,
+             			 "FOV_Degrees": 90
+            		}
+         		 ],
+			"X": 0, "Y": 0, "Z": 0,
+      			"Pitch": 0, "Roll": 0, "Yaw": 90
+        	  },
+		  "7": {
+			"CaptureSettings": [
+           		 {
+              			"ImageType": 1,
+             			 "Width": 128,
+              			"Height": 128,
+             			 "FOV_Degrees": 90
+            		}
+         		 ],
+			"X": 0, "Y": 0, "Z": 0,
+      			"Pitch": 0, "Roll": 0, "Yaw": 180
+        	  },
+		  "8": {
+			"CaptureSettings": [
+           		 {
+              			"ImageType": 1,
+             			 "Width": 128,
+              			"Height": 128,
+             			 "FOV_Degrees": 90
+            		}
+         		 ],
+			"X": 0, "Y": 0, "Z": 0,
+      			"Pitch": 0, "Roll": 0, "Yaw": 270
+        	  },
+		  "9": {
+			"CaptureSettings": [
+           		 {
+              			"ImageType": 5,
+             			 "Width": 128,
+              			"Height": 128,
+             			 "FOV_Degrees": 90
+            		}
+         		 ],
+			"X": 0, "Y": 0, "Z": 0,
+      			"Pitch": 0, "Roll": 0, "Yaw": 0
+        	  },
+		  "10": {
+			"CaptureSettings": [
+           		 {
+              			"ImageType": 5,
+             			 "Width": 128,
+              			"Height": 128,
+             			 "FOV_Degrees": 90
+            		}
+         		 ],
+			"X": 0, "Y": 0, "Z": 0,
+      			"Pitch": 0, "Roll": 0, "Yaw": 90
+        	  },
+		  "11": {
+			"CaptureSettings": [
+           		 {
+              			"ImageType": 5,
+             			 "Width": 128,
+              			"Height": 128,
+             			 "FOV_Degrees": 90
+            		}
+         		 ],
+			"X": 0, "Y": 0, "Z": 0,
+      			"Pitch": 0, "Roll": 0, "Yaw": 180
+        	  },
+		  "12": {
+			"CaptureSettings": [
+           		 {
+              			"ImageType": 5,
+             			 "Width": 128,
+              			"Height": 128,
+             			 "FOV_Degrees": 90
+            		}
+         		 ],
+			"X": 0, "Y": 0, "Z": 0,
+      			"Pitch": 0, "Roll": 0, "Yaw": 270
+        	  },
+		  "0": {
+			"CaptureSettings": [
+           		 {
+             			 "Width": 128,
+              			"Height": 128,
+             			 "FOV_Degrees": 90
+            		}
+         		 ],
+			"X": 0.4, "Y": 0, "Z": 0,
+      			"Pitch": 0, "Roll": 0, "Yaw": 0
+        	  }
+		  }
+		}
+
+    }
+}
